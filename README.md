@@ -1,4 +1,4 @@
-### Hello, I am Lais👋
+# Hello, I am Lais👋
 
 - 🎓 Recent Graduate Data Analytics for Business
 - 🔭 Open to work!
