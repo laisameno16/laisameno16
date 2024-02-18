@@ -1,20 +1,15 @@
 # Hello, I am Lais👋
 
-- 🎓 Recent Graduate Data Analytics for Business
+- 🎓 Graduate Higher Diploma in Science in Data Analytics for Business CCT College Dublin | Feb. 2023-Feb. 2024
 - 🔭 Open to work!
 - 👧🏿 Pronouns: She/Her
-- ⚡ Fun fact: Rainbows make me happy!
+
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=45&center=true&vCenter=true&width=1000&lines=Welcome!+🙂)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laisameno16&bg_color=0d1117&color=FFFFFF&line=DCDCDC&point=D3D3D3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laisameno16&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 
 
